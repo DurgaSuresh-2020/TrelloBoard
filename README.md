@@ -11,7 +11,6 @@
 	
 •	Intellij IDE was used
  
-•	Framework is available on github – 
 
 
 #Framework Architecture:
@@ -27,7 +26,7 @@
 
 #Steps to initiate the test run :
 
-•	Download the project from
+•	Download the project
  
 •	Import as Maven project in your IDE
 
