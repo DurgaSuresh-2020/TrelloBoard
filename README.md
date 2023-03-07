@@ -1,5 +1,5 @@
  
-#Framework:
+# Framework:
 
 •	Serenity BDD framework has been leveraged
 
@@ -13,7 +13,7 @@
  
 
 
-#Framework Architecture:
+# Framework Architecture:
 
 •	Test -> resources -> features.Trello has the Feature file
 
@@ -24,7 +24,7 @@
 •	Test -> Java -> starter ->CucumberTestSuite has the runner which should be executed.
 
 
-#Steps to initiate the test run :
+# Steps to initiate the test run :
 
 •	Download the project
  
